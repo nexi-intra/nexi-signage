@@ -9,7 +9,7 @@ import { z } from 'zod'
 
 import { extendZodWithOpenApi } from '@asteasolutions/zod-to-openapi';
 import { APPNAME } from '@/app/global'
-import { createInputSchema, schemaMapObjects, SchemaName, typeNames, updateInputSchema } from '@/app/tools/schemas/forms'
+import { createInputSchema, schemaMapObjects, SchemaName, typeNames, updateInputSchema } from '@/app/signage/schemas/forms'
 
 // Call this once in your app's entry point
 extendZodWithOpenApi(z);

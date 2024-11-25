@@ -7,7 +7,7 @@ import { Button } from "@/components/ui/button"
 import { ChevronDown, ChevronUp, Github, ListIcon } from 'lucide-react'
 import Link from 'next/link'
 import { ComponentDoc } from './component-documentation-hub'
-import { useCases } from '@/app/tools/api/usecases'
+import { useCases } from '@/app/signage/api/usecases'
 import { Icon, LucidIconName } from './icon'
 
 

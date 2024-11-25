@@ -6,10 +6,6 @@ import { getCurrentBookingStatus } from '../logic/bookings';
 import { Clock } from './Clock';
 import { CurrentStatus } from './CurrentStatus';
 import { NextMeeting } from './NextMeeting';
-import Logo from '../media/logo.png';
-import UpperRight from '../media/upperright.png';
-import Background from '../media/background.png';
-import LowerLeft from '../media/lowerleft.png';
 
 const RoomDisplay: React.FC<RoomDisplayProps> = ({ email, timezone }) => {
   const [room, setRoom] = useState<Room>({ displayName: '', email: '' });
@@ -74,13 +70,13 @@ const RoomDisplay: React.FC<RoomDisplayProps> = ({ email, timezone }) => {
 
   return (
     <div className="room-display relative min-h-screen bg-[#E6F3FF]">
-      <img 
+      <img
         className="absolute top-0 right-0 w-1/3 h-auto"
-        src={UpperRight}
+        src="/signage/upper-right.svg"
         alt=""
         role="presentation"
       />
-      
+
       <Clock timezone={timezone} />
 
       {isLoaded && (
@@ -102,22 +98,22 @@ const RoomDisplay: React.FC<RoomDisplayProps> = ({ email, timezone }) => {
         </div>
       )}
 
-      <img 
+      <img
         className="absolute bottom-4 right-4 w-24 h-auto"
-        src={Logo}
+        src={"/signage/logo.png"}
         alt="Nets"
       />
-      
-      <img 
+
+      <img
         className="absolute bottom-0 left-0 w-1/3 h-auto"
-        src={LowerLeft}
+        src={"/signage/lowerleft.png"}
         alt=""
         role="presentation"
       />
-      
-      <div 
-        className="absolute inset-0 z-0 bg-contain bg-no-repeat bg-right-bottom pointer-events-none" 
-        style={{ backgroundImage: `url(${Background})` }}
+
+      <div
+        className="absolute inset-0 z-0 bg-contain bg-no-repeat bg-right-bottom pointer-events-none"
+        style={{ backgroundImage: `url(${"/signage/background.png"})` }}
         role="presentation"
       />
     </div>

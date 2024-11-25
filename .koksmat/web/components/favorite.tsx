@@ -3,7 +3,7 @@
 import React, { useState, useEffect } from 'react'
 import { Star } from 'lucide-react'
 import { ComponentDoc } from './component-documentation-hub'
-import { databaseActions } from '@/app/tools/schemas/database'
+import { databaseActions } from '@/app/signage/schemas/database'
 import { useKoksmatDatabase } from '@/app/koksmat/src/v.next/components/database-context-provider'
 import { kError, kVerbose } from '@/lib/koksmat-logger-client'
 

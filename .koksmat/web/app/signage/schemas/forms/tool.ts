@@ -215,7 +215,7 @@ export const mockdata: Tool[] = [
   //   teamSize: 800,
   //   primaryFocus: [{ id: "focus1", value: "Productivity", order: "1" }],
   // },
-  // // Google Workspace Tools
+  // // Google Workspace Signage
   // {
   //   id: 3,
   //   createdAt: new Date("2021-03-01T00:00:00Z"),
@@ -286,7 +286,7 @@ export const mockdata: Tool[] = [
   //   teamSize: 250,
   //   primaryFocus: [{ id: "focus1", value: "Productivity", order: "1" }],
   // },
-  // // Adobe Creative Cloud Tools
+  // // Adobe Creative Cloud Signage
   // {
   //   id: 5,
   //   createdAt: new Date("2021-05-01T00:00:00Z"),
@@ -353,7 +353,7 @@ export const mockdata: Tool[] = [
   //   teamSize: 800,
   //   primaryFocus: [{ id: "focus1", value: "Design", order: "1" }],
   // },
-  // // Slack Tools
+  // // Slack Signage
   // {
   //   id: 7,
   //   createdAt: new Date("2021-07-01T00:00:00Z"),
@@ -384,7 +384,7 @@ export const mockdata: Tool[] = [
   //   teamSize: 2000,
   //   primaryFocus: [{ id: "focus1", value: "Communication", order: "1" }],
   // },
-  // // Atlassian Suite Tools
+  // // Atlassian Suite Signage
   // {
   //   id: 8,
   //   createdAt: new Date("2021-08-01T00:00:00Z"),
@@ -460,7 +460,7 @@ export const mockdata: Tool[] = [
   //   teamSize: 1200,
   //   primaryFocus: [{ id: "focus1", value: "Collaboration", order: "1" }],
   // },
-  // // Additional Tools
+  // // Additional Signage
   // {
   //   id: 10,
   //   createdAt: new Date("2021-10-01T00:00:00Z"),

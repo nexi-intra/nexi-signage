@@ -7,11 +7,11 @@ export const metadata: Metadata = {
     "https://tools.intra.nexigroup.com"
   ),
   title: {
-    template: "%s | Nexi Tools",
-    default: "Nexi Tools",
+    template: "%s | Nexi Signage",
+    default: "Nexi Signage",
   },
   openGraph: {
-    title: "Nexi Tools",
+    title: "Nexi Signage",
     description: "Nexi tools provide access to your tools",
     images: [
       {

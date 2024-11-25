@@ -6,7 +6,7 @@ import { run } from "../actions/server";
 import { z } from "zod";
 import { queries } from "@/app/global";
 import { database } from "@/actions/database/works/activityModel";
-import { databaseActions } from "@/app/tools/schemas/database";
+import { databaseActions } from "@/app/signage/schemas/database";
 import { jwtDecode } from "jwt-decode";
 
 const crudOperationSchema = z.object({

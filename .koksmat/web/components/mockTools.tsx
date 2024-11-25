@@ -1,6 +1,6 @@
 "use client";
 
-import { ToolView } from "@/app/tools/schemas/forms";
+import { ToolView } from "@/app/signage/schemas/forms";
 
 
 // Mock data

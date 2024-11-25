@@ -1,9 +1,9 @@
 "use client"
 import { DatabaseItemsViewer } from "@/app/koksmat/src/v.next/components/database-items-viewer";
 import { ToolCardMediumComponent } from "./tool-card-medium";
-import { ToolView } from '@/app/tools/schemas/forms'
+import { ToolView } from '@/app/signage/schemas/forms'
 
-import { databaseQueries } from "@/app/tools/schemas/database";
+import { databaseQueries } from "@/app/signage/schemas/database";
 
 
 export function MyToolList() {

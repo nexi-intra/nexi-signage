@@ -129,7 +129,7 @@ export const navLinks = [
   },
   {
     href: "/tools/docs/components/tools-explorer",
-    label: "Tools Explorer",
+    label: "Signage Explorer",
   },
   {
     label: "Upload Excel",

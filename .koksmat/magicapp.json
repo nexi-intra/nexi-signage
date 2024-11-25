@@ -986,7 +986,7 @@
         },
         {
           "name": "tools",
-          "displayname": "Tools",
+          "displayname": "Signage",
           "type": "array",
           "required": true,
           "entity": {
@@ -1538,7 +1538,7 @@
       "additionalattributes": [
         {
           "name": "tools",
-          "displayname": "Tools",
+          "displayname": "Signage",
           "type": "array",
           "required": true,
           "entity": {
@@ -3009,7 +3009,7 @@
               },
               {
                 "name": "tools",
-                "displayname": "Tools",
+                "displayname": "Signage",
                 "type": "array",
                 "required": true,
                 "entity": {
@@ -4515,7 +4515,7 @@
                     },
                     {
                       "name": "tools",
-                      "displayname": "Tools",
+                      "displayname": "Signage",
                       "type": "array",
                       "required": true,
                       "entity": {
@@ -5751,7 +5751,7 @@
   "services": [
     {
       "name": "tool",
-      "description": "Tools",
+      "description": "Signage",
       "entity": {
         "type": "record",
         "entity": {
@@ -7610,7 +7610,7 @@
                   },
                   {
                     "name": "tools",
-                    "displayname": "Tools",
+                    "displayname": "Signage",
                     "type": "array",
                     "required": true,
                     "entity": {
@@ -8523,7 +8523,7 @@
           "additionalattributes": [
             {
               "name": "tools",
-              "displayname": "Tools",
+              "displayname": "Signage",
               "type": "array",
               "required": true,
               "entity": {
@@ -10124,7 +10124,7 @@
                         },
                         {
                           "name": "tools",
-                          "displayname": "Tools",
+                          "displayname": "Signage",
                           "type": "array",
                           "required": true,
                           "entity": {
@@ -11854,7 +11854,7 @@
             },
             {
               "name": "tools",
-              "displayname": "Tools",
+              "displayname": "Signage",
               "type": "array",
               "required": true,
               "entity": {

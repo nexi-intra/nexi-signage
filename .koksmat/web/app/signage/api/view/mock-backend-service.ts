@@ -60,7 +60,7 @@ export function createMock() {
   // Pre-populated mock database
   const db: Record<string, any[]> = {
     tool: [
-      // Microsoft 365 Tools
+      // Microsoft 365 Signage
       // {
       //   name: "Microsoft Teams",
       //   description: "Team collaboration and communication platform",
@@ -120,7 +120,7 @@ export function createMock() {
       //   teamSize: 800,
       //   primaryFocus: [{ id: "focus1", value: "Productivity", order: "1" }],
       // },
-      // // Google Workspace Tools
+      // // Google Workspace Signage
       // {
       //   name: "Google Docs",
       //   description: "Online document editor",
@@ -179,7 +179,7 @@ export function createMock() {
       //   teamSize: 250,
       //   primaryFocus: [{ id: "focus1", value: "Productivity", order: "1" }],
       // },
-      // // Adobe Creative Cloud Tools
+      // // Adobe Creative Cloud Signage
       // {
       //   name: "Adobe Photoshop",
       //   description: "Image editing software",
@@ -234,7 +234,7 @@ export function createMock() {
       //   teamSize: 800,
       //   primaryFocus: [{ id: "focus1", value: "Design", order: "1" }],
       // },
-      // // Slack Tools
+      // // Slack Signage
       // {
       //   name: "Slack",
       //   description: "Team communication platform",
@@ -268,7 +268,7 @@ export function createMock() {
       //   teamSize: 2000,
       //   primaryFocus: [{ id: "focus1", value: "Communication", order: "1" }],
       // },
-      // // Atlassian Suite Tools
+      // // Atlassian Suite Signage
       // {
       //   name: "Jira Software",
       //   description: "Project tracking software",
@@ -330,7 +330,7 @@ export function createMock() {
       //   teamSize: 1200,
       //   primaryFocus: [{ id: "focus1", value: "Collaboration", order: "1" }],
       // },
-      // // Additional Tools
+      // // Additional Signage
       // {
       //   name: "Salesforce CRM",
       //   description: "Customer relationship management platform",
@@ -515,107 +515,109 @@ export function createMock() {
     purpose: [
       createEntity(schemaMapObjects.purpose, "system", {
         name: "Collaboration",
-        description: "Tools for team collaboration and communication",
+        description: "Signage for team collaboration and communication",
         category: "Productivity",
       }),
       createEntity(schemaMapObjects.purpose, "system", {
         name: "Project Management",
-        description: "Tools for planning, executing, and tracking projects",
+        description: "Signage for planning, executing, and tracking projects",
         category: "Productivity",
       }),
       createEntity(schemaMapObjects.purpose, "system", {
         name: "Customer Relationship Management",
-        description: "Tools for managing company interactions with customers",
+        description: "Signage for managing company interactions with customers",
         category: "Sales",
       }),
       createEntity(schemaMapObjects.purpose, "system", {
         name: "Marketing Automation",
-        description: "Tools for automating marketing activities and campaigns",
+        description:
+          "Signage for automating marketing activities and campaigns",
         category: "Marketing",
       }),
       createEntity(schemaMapObjects.purpose, "system", {
         name: "Data Analysis",
-        description: "Tools for analyzing and interpreting data",
+        description: "Signage for analyzing and interpreting data",
         category: "Analytics",
       }),
       createEntity(schemaMapObjects.purpose, "system", {
         name: "Content Creation",
-        description: "Tools for creating and editing content",
+        description: "Signage for creating and editing content",
         category: "Creative",
       }),
       createEntity(schemaMapObjects.purpose, "system", {
         name: "Email Management",
-        description: "Tools for managing email communications",
+        description: "Signage for managing email communications",
         category: "Communication",
       }),
       createEntity(schemaMapObjects.purpose, "system", {
         name: "File Storage",
-        description: "Tools for storing and sharing files",
+        description: "Signage for storing and sharing files",
         category: "Storage",
       }),
       createEntity(schemaMapObjects.purpose, "system", {
         name: "Video Conferencing",
-        description: "Tools for conducting video meetings",
+        description: "Signage for conducting video meetings",
         category: "Communication",
       }),
       createEntity(schemaMapObjects.purpose, "system", {
         name: "Networking",
-        description: "Tools for managing network infrastructure",
+        description: "Signage for managing network infrastructure",
         category: "IT",
       }),
       createEntity(schemaMapObjects.purpose, "system", {
         name: "Security",
-        description: "Tools for securing systems and data",
+        description: "Signage for securing systems and data",
         category: "IT",
       }),
       createEntity(schemaMapObjects.purpose, "system", {
         name: "Development",
-        description: "Tools for software development and version control",
+        description: "Signage for software development and version control",
         category: "Engineering",
       }),
       createEntity(schemaMapObjects.purpose, "system", {
         name: "Accounting",
-        description: "Tools for managing financial transactions",
+        description: "Signage for managing financial transactions",
         category: "Finance",
       }),
       createEntity(schemaMapObjects.purpose, "system", {
         name: "Human Resources",
-        description: "Tools for managing employee information and recruitment",
+        description:
+          "Signage for managing employee information and recruitment",
         category: "HR",
       }),
       createEntity(schemaMapObjects.purpose, "system", {
         name: "Customer Support",
-        description: "Tools for providing customer service and support",
+        description: "Signage for providing customer service and support",
         category: "Support",
       }),
       createEntity(schemaMapObjects.purpose, "system", {
         name: "Scheduling",
-        description: "Tools for scheduling meetings and appointments",
+        description: "Signage for scheduling meetings and appointments",
         category: "Productivity",
       }),
       createEntity(schemaMapObjects.purpose, "system", {
         name: "Learning Management",
-        description: "Tools for managing training and educational content",
+        description: "Signage for managing training and educational content",
         category: "Education",
       }),
       createEntity(schemaMapObjects.purpose, "system", {
         name: "E-commerce",
-        description: "Tools for managing online sales and storefronts",
+        description: "Signage for managing online sales and storefronts",
         category: "Sales",
       }),
       createEntity(schemaMapObjects.purpose, "system", {
         name: "Design",
-        description: "Tools for graphic and UI/UX design",
+        description: "Signage for graphic and UI/UX design",
         category: "Creative",
       }),
       createEntity(schemaMapObjects.purpose, "system", {
         name: "Cloud Computing",
-        description: "Tools for cloud infrastructure and services",
+        description: "Signage for cloud infrastructure and services",
         category: "IT",
       }),
       createEntity(schemaMapObjects.purpose, "system", {
         name: "Social Media Management",
-        description: "Tools for managing social media accounts and content",
+        description: "Signage for managing social media accounts and content",
         category: "Marketing",
       }),
     ],
@@ -708,7 +710,7 @@ export function createMock() {
     toolGroup: [
       createEntity(schemaMapObjects.toolgroup, "system", {
         name: "Microsoft 365",
-        description: "Tools provided by Microsoft 365 suite",
+        description: "Signage provided by Microsoft 365 suite",
       }),
       createEntity(schemaMapObjects.toolgroup, "system", {
         name: "Google Workspace",
@@ -719,7 +721,7 @@ export function createMock() {
         description: "Suite of creative applications by Adobe",
       }),
       createEntity(schemaMapObjects.toolgroup, "system", {
-        name: "Slack Tools",
+        name: "Slack Signage",
         description: "Communication and collaboration tools by Slack",
       }),
       createEntity(schemaMapObjects.toolgroup, "system", {
@@ -775,11 +777,11 @@ export function createMock() {
         description: "Cloud computing services by IBM",
       }),
       createEntity(schemaMapObjects.toolgroup, "system", {
-        name: "Apple Developer Tools",
+        name: "Apple Developer Signage",
         description: "Development tools provided by Apple",
       }),
       createEntity(schemaMapObjects.toolgroup, "system", {
-        name: "Cisco Tools",
+        name: "Cisco Signage",
         description: "Networking and communication solutions by Cisco",
       }),
       createEntity(schemaMapObjects.toolgroup, "system", {

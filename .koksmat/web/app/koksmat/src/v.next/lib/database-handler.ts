@@ -1,8 +1,11 @@
 import { z } from "zod";
 import { kError, kInfo, kVerbose } from "@/lib/koksmat-logger-client";
 import { DatabaseMessageType } from "../endpoints/database-messages-server";
-import { ActionNames, actionNames } from "@/app/tools/schemas/database/actions";
-import { ViewNames, viewNames } from "@/app/tools/schemas/database/view";
+import {
+  ActionNames,
+  actionNames,
+} from "@/app/signage/schemas/database/actions";
+import { ViewNames, viewNames } from "@/app/signage/schemas/database/view";
 
 // export interface DatabaseMessageType {
 //   subject: string;

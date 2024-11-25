@@ -17,12 +17,12 @@ import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '.
 import { CodeViewer } from './code-viewer'
 import { ComponentDoc } from './component-documentation-hub'
 import { useKoksmatDatabase } from '@/app/koksmat/src/v.next/components/database-context-provider'
-import { databaseQueries } from '@/app/tools/schemas/database'
+import { databaseQueries } from '@/app/signage/schemas/database'
 import { kError } from '@/lib/koksmat-logger-client'
 import { set } from 'date-fns'
 import { init } from 'next/dist/compiled/webpack/webpack'
 import { MagicboxContext } from '@/app/koksmat0/magicbox-context'
-import { ToolView } from '@/app/tools/schemas/forms'
+import { ToolView } from '@/app/signage/schemas/forms'
 
 type ModeType = 'view' | 'edit' | 'new'
 
@@ -408,7 +408,7 @@ export const examplesToolCard: ComponentDoc[] = [
     description: 'ToolCard component with view/edit/new mode selector, allowed tags, and favorite management',
     usage: `
 import React, { useState } from 'react'
-import { Tool } from '@/app/tools/api/entity/schemas'
+import { Tool } from '@/app/signage/api/entity/schemas'
 import ToolCard from './ToolCard'
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select"
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"

@@ -189,7 +189,7 @@ entities:
         type: string
         required: false
       - name: tools
-        displayname: Tools
+        displayname: Signage
         type: array
         required: true
         entity: *tool
@@ -200,7 +200,7 @@ entities:
     baselineattributes: *recordAttributes
     additionalattributes:
       - name: tools
-        displayname: Tools
+        displayname: Signage
         type: array
         required: true
         entity: *tool
@@ -377,7 +377,7 @@ models:
 
 services:
   - name: tool
-    description: Tools
+    description: Signage
     entity:
       type: record
       entity: *tool

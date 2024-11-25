@@ -11,7 +11,7 @@ import { ToolSearchProps } from "./tool-search";
 import { mockTools } from "./mockTools";
 import TokenInput, { ErrorDetail } from "./token-input";
 import { kVerbose } from "@/lib/koksmat-logger-client";
-import { ToolView } from "@/app/tools/schemas/forms";
+import { ToolView } from "@/app/signage/schemas/forms";
 import { ToolList } from "./tool-list";
 
 type ViewMode = "cards" | "table" | "list";

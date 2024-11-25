@@ -98,7 +98,7 @@ where weburl ilike '%/Lists/Applications/%'
     <div className="p-6 space-y-8">
       <div className="flex justify-between items-center">
         <div>
-          <h1 className="text-3xl font-bold">Tools</h1>
+          <h1 className="text-3xl font-bold">Signage</h1>
           <p className="text-muted-foreground">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean
             commodo ligula eget dolor. Aenean massa.

@@ -4,7 +4,7 @@ import { ToolList } from "@/components/tool-list";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Tools",
+  title: "Signage",
   description: "List of tools",
 
 

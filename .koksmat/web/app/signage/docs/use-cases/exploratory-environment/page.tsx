@@ -1,5 +1,5 @@
 "use client"
-import { useCases } from '@/app/tools/api/usecases'
+import { useCases } from '@/app/signage/api/usecases'
 import { DocumentationSection } from '@/components/documentation-section'
 import { UseCaseDetails } from '@/components/use-case-details'
 
