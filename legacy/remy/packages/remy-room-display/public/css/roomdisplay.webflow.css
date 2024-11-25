@@ -1,0 +1,48 @@
+.af-view .af-class-roomfree {
+  background-color: #22e03f;
+}
+
+.af-view .af-class-button {
+  margin: 19px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #fff;
+  background-color: transparent;
+}
+
+.af-view .af-class-text-block {
+  margin: 0px;
+  color: #fff;
+  font-size: 38px;
+}
+
+.af-view .af-class-div-block-2 {
+  padding: 23px;
+}
+
+.af-view .af-class-heading {
+  padding: 15px;
+}
+
+.af-view .af-class-text-block-2 {
+  padding: 0px;
+  color: #fff;
+}
+
+.af-view .af-class-div-block-3 {
+  padding: 24px;
+}
+
+.af-view .af-class-text-block-3 {
+  font-size: 27px;
+}
+
+.af-view .af-class-nextmeeting {
+  margin-top: 12px;
+  padding: 20px;
+}
+
+.af-view .af-class-roombuzy {
+  margin-top: 17px;
+  background-color: #e03522;
+}

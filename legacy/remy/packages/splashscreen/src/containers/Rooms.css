@@ -1,0 +1,88 @@
+.slot {
+    
+    font-size: 8px;
+    border:1px solid black;
+    min-width: 16px;
+    max-width: 16px;
+    min-height: 16px;
+    max-height: 16px;
+    overflow: hidden;
+
+
+}
+.slot-undefined {background-color: grey;
+
+}
+.columnn-room {
+    min-width: 200px;
+    flex-grow: 1;
+}
+/* 
+
+https://www.nets.eu/design-guide/digital/foundation/Pages/colour.aspx
+
+*/
+.room-available{
+    /* background-color: #017d68; */
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 16px;
+    
+    text-align: left !important;
+    font-size: 18px !important;
+/* color:#ffffff; */
+  overflow: hidden;
+  border-radius: 10px;
+}
+
+.room-available button {
+    background-color: #017d68;
+    color:#ffffff;
+    font-size: 26px !important;
+
+    border: 0px solid white; 
+    border-radius: 32px;
+    min-width: 250px;
+   padding: 16px;
+}
+.room-buzy{
+    /* background-color: #cc334a; */
+    /* color:#ffffff; */
+}
+.room-buzy button {
+    background-color: #cc334a;
+    color:#ffffff;
+    font-size: 26px !important;
+
+     border: 0px solid white; 
+     border-radius: 32px;
+     min-width: 250px;
+    padding: 16px;
+}
+
+.room-soonbuzy{
+    background-color: #34a940;
+}
+.status-block{
+    padding-top: 12px;
+    padding-bottom: 32px;
+}
+.status-heading{
+    font-size: 32px;
+    line-height: 32px;
+  
+}
+
+.status-subheading{
+    
+    padding-top: 4px;
+    font-size: 18px;
+}
+
+
+
+.clock-hm {
+
+font-size: 32px;
+    
+}
+

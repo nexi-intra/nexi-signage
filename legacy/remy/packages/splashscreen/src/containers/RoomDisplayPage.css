@@ -1,0 +1,133 @@
+.room-display {
+  position: fixed;
+  z-index: 4;
+  width:100vw;
+
+}
+
+.displaytitle {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #005776;
+  padding: 16px;
+  font-size: 48px;
+  text-transform: uppercase;
+  overflow: hidden;
+  white-space: nowrap;
+  text-align: left;
+  margin-top: 24px;
+}
+
+.room-status-block {
+  z-index: 2;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #005776;
+  padding: 16px;
+  margin-top: 140px;
+  text-align: left !important;
+  font-size: 38px !important;
+  /* color: #ffffff; */
+  overflow: hidden;
+  border-radius: 10px;
+  height:200px;
+ 
+}
+.room-available {
+  /* background-color: #017d68; */
+
+}
+
+
+/* 
+
+https://www.nets.eu/design-guide/digital/foundation/Pages/colour.aspx
+
+*/
+.room-buzy {
+  /* background-color: #cc334a; */
+
+}
+
+.room-soonbuzy {
+  /* background-color: #0280a7; */
+}
+.status-block {
+  padding-top: 12px;
+  padding-bottom: 32px;
+  font-size: 18px !important;
+}
+.status-heading {
+  font-size: 32px;
+  line-height: 32px;
+}
+
+.status-subheading {
+  padding-top: 4px;
+  font-size: 18px;
+}
+
+.clock {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #005776;
+  text-align: right;
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  padding: 10px;
+}
+.imgUpperRight {
+  z-index: -1;
+  position: fixed;
+  left: 0px;
+  bottom: 0px;
+}
+
+.imgLowerRight {
+  position: fixed;
+  right: 0;
+  top: 0;
+}
+.clock-hm {
+  font-size: 32px;
+}
+
+.next {
+  height:100vh;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 24px;
+  color: #005776;
+  /* position: fixed;
+  left: 0;
+  bottom: 10px; */
+}
+.comingUp {
+  margin-top: 10px;
+}
+.nextHeader {
+  margin-top: 20px;
+  font-style: italic;
+  font-size: 12px;
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  width:520px;
+}
+
+
+.clickhere{
+  border-radius:20px;
+  background-color: #005776;
+  color:white;
+  height:40px;
+  font-style: normal;
+  width:300px;
+  text-decoration: none;
+  font-size:18px;
+  padding:10px;
+  padding-left:40px;
+  padding-right:40px;
+  word-wrap: unset;
+ overflow:hidden
+}

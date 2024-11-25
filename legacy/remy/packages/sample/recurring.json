@@ -1,0 +1,98 @@
+{
+  "@odata.context": "https://graph.microsoft.com/v1.0/$metadata#users('06fbbd0f-4309-466d-9830-093d26e10db3')/events/$entity",
+  "@odata.etag": "W/\"YtzpwFlz70yZX0SM/9gOFgAABDFwbQ==\"",
+  "id": "AAMkAGJmMTA4OTU0LTMwZWYtNGM5NS04OGI0LWI4NDQzY2M5OGVjMQBGAAAAAACrAEiQYybOTLuMom19E37ZBwBi3OnAWXPvTJlfRIz-2A4WAAAAAAENAABi3OnAWXPvTJlfRIz-2A4WAAAEMhkBAAA=",
+  "createdDateTime": "2020-08-18T12:53:45.4934259Z",
+  "lastModifiedDateTime": "2020-08-18T12:55:06.329197Z",
+  "changeKey": "YtzpwFlz70yZX0SM/9gOFgAABDFwbQ==",
+  "categories": [],
+  "originalStartTimeZone": "Romance Standard Time",
+  "originalEndTimeZone": "Romance Standard Time",
+  "iCalUId": "040000008200E00074C5B7101A82E0080000000000C142F06D75D601000000000000000010000000B685CAE63337F94196FE9E38DA16F60A",
+  "reminderMinutesBeforeStart": 15,
+  "isReminderOn": false,
+  "hasAttachments": false,
+  "subject": "Niels Gregers Johansen ",
+  "bodyPreview": "",
+  "importance": "normal",
+  "sensitivity": "normal",
+  "isAllDay": false,
+  "isCancelled": false,
+  "isOrganizer": false,
+  "responseRequested": true,
+  "seriesMasterId": null,
+  "showAs": "busy",
+  "type": "seriesMaster",
+  "webLink": "https://outlook.office365.com/owa/?itemid=AAMkAGJmMTA4OTU0LTMwZWYtNGM5NS04OGI0LWI4NDQzY2M5OGVjMQBGAAAAAACrAEiQYybOTLuMom19E37ZBwBi3OnAWXPvTJlfRIz%2F2A4WAAAAAAENAABi3OnAWXPvTJlfRIz%2F2A4WAAAEMhkBAAA%3D&exvsurl=1&path=/calendar/item",
+  "onlineMeetingUrl": null,
+  "isOnlineMeeting": false,
+  "onlineMeetingProvider": "unknown",
+  "allowNewTimeProposals": true,
+  "onlineMeeting": null,
+  "responseStatus": {
+    "response": "accepted",
+    "time": "2020-08-18T12:53:47.519241Z"
+  },
+  "body": {
+    "contentType": "html",
+    "content": "<html><head><meta name=\"Generator\" content=\"Microsoft Exchange Server\">\r\n<!-- converted from text -->\r\n<style><!-- .EmailQuote { margin-left: 1pt; padding-left: 4pt; border-left: #800000 2px solid; } --></style></head>\r\n<body>\r\n<font size=\"2\"><span style=\"font-size:11pt;\"><div class=\"PlainText\">&nbsp;</div></span></font>\r\n</body>\r\n</html>\r\n"
+  },
+  "start": { "dateTime": "2020-08-24T14:00:00.0000000", "timeZone": "UTC" },
+  "end": { "dateTime": "2020-08-24T14:30:00.0000000", "timeZone": "UTC" },
+  "location": {
+    "displayName": "DK-KB601-21E1 Video (6)",
+    "locationType": "default",
+    "uniqueId": "DK-KB601-21E1 Video (6)",
+    "uniqueIdType": "private"
+  },
+  "locations": [
+    {
+      "displayName": "DK-KB601-21E1 Video (6)",
+      "locationUri": "room-dk-kb601-21e1@nets.eu",
+      "locationType": "conferenceRoom",
+      "uniqueId": "room-dk-kb601-21e1@nets.eu",
+      "uniqueIdType": "directory",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "",
+        "countryOrRegion": "",
+        "postalCode": ""
+      },
+      "coordinates": {}
+    }
+  ],
+  "recurrence": {
+    "pattern": {
+      "type": "daily",
+      "interval": 1,
+      "month": 0,
+      "dayOfMonth": 0,
+      "firstDayOfWeek": "sunday",
+      "index": "first"
+    },
+    "range": {
+      "type": "numbered",
+      "startDate": "2020-08-24",
+      "endDate": "0001-01-01",
+      "recurrenceTimeZone": "Romance Standard Time",
+      "numberOfOccurrences": 5
+    }
+  },
+  "attendees": [
+    {
+      "type": "required",
+      "status": { "response": "none", "time": "0001-01-01T00:00:00Z" },
+      "emailAddress": {
+        "name": "Niels Gregers Johansen",
+        "address": "ngjoh@nets.eu"
+      }
+    }
+  ],
+  "organizer": {
+    "emailAddress": {
+      "name": "Niels Gregers Johansen",
+      "address": "ngjoh@nets.eu"
+    }
+  }
+}

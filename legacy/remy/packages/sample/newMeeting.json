@@ -1,0 +1,356 @@
+{
+    "content": {
+        "@odata.context": "https://graph.microsoft.com/v1.0/$metadata#users('06fbbd0f-4309-466d-9830-093d26e10db3')/events/$entity",
+        "@odata.etag": "W/\"YtzpwFlz70yZX0SM/9gOFgAABDGiog==\"",
+        "id": "AAMkAGJmMTA4OTU0LTMwZWYtNGM5NS04OGI0LWI4NDQzY2M5OGVjMQBGAAAAAACrAEiQYybOTLuMom19E37ZBwBi3OnAWXPvTJlfRIz-2A4WAAAAAAENAABi3OnAWXPvTJlfRIz-2A4WAAAEMhkUAAA=",
+        "createdDateTime": "2020-08-20T18:27:20.1921776Z",
+        "lastModifiedDateTime": "2020-08-20T18:27:20.2301555Z",
+        "changeKey": "YtzpwFlz70yZX0SM/9gOFgAABDGiog==",
+        "categories": [],
+        "originalStartTimeZone": "Romance Standard Time",
+        "originalEndTimeZone": "Romance Standard Time",
+        "iCalUId": "040000008200E00074C5B7101A82E00800000000E0DA06373077D6010000000000000000100000008AE210BC17C2F44C872705056871917A",
+        "reminderMinutesBeforeStart": 15,
+        "isReminderOn": true,
+        "hasAttachments": false,
+        "subject": "Redwine 6",
+        "bodyPreview": "________________________________\r\nREMY - Nets Meeting Services\r\nThis is a link used by the organizer of the meeting to order additional services\r\n\r\nOpen REMY\r\n#REMYIDSTART#ngjoh-nets.eu:1597947922216#REMYIDEND#\r\n________________________________",
+        "importance": "normal",
+        "sensitivity": "normal",
+        "isAllDay": false,
+        "isCancelled": false,
+        "isOrganizer": false,
+        "responseRequested": true,
+        "seriesMasterId": null,
+        "showAs": "tentative",
+        "type": "singleInstance",
+        "webLink": "https://outlook.office365.com/owa/?itemid=AAMkAGJmMTA4OTU0LTMwZWYtNGM5NS04OGI0LWI4NDQzY2M5OGVjMQBGAAAAAACrAEiQYybOTLuMom19E37ZBwBi3OnAWXPvTJlfRIz%2F2A4WAAAAAAENAABi3OnAWXPvTJlfRIz%2F2A4WAAAEMhkUAAA%3D&exvsurl=1&path=/calendar/item",
+        "onlineMeetingUrl": null,
+        "isOnlineMeeting": false,
+        "onlineMeetingProvider": "unknown",
+        "allowNewTimeProposals": true,
+        "recurrence": null,
+        "onlineMeeting": null,
+        "responseStatus": {
+            "response": "notResponded",
+            "time": "0001-01-01T00:00:00Z"
+        },
+        "body": {
+            "contentType": "html",
+            "content": "<html>\r\n<head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\r\n<meta content=\"text/html; charset=us-ascii\">\r\n<meta name=\"Generator\" content=\"Microsoft Word 15 (filtered medium)\">\r\n<style>\r\n<!--\r\n@font-face\r\n\t{font-family:\"Cambria Math\"}\r\n@font-face\r\n\t{font-family:Calibri}\r\np.MsoNormal, li.MsoNormal, div.MsoNormal\r\n\t{margin:0cm;\r\n\tmargin-bottom:.0001pt;\r\n\tfont-size:11.0pt;\r\n\tfont-family:\"Calibri\",sans-serif}\r\nh2\r\n\t{margin-right:0cm;\r\n\tmargin-left:0cm;\r\n\tfont-size:18.0pt;\r\n\tfont-family:\"Calibri\",sans-serif}\r\na:link, span.MsoHyperlink\r\n\t{color:#0563C1;\r\n\ttext-decoration:underline}\r\na:visited, span.MsoHyperlinkFollowed\r\n\t{color:#954F72;\r\n\ttext-decoration:underline}\r\nspan.Heading2Char\r\n\t{font-family:\"Calibri\",sans-serif;\r\n\tfont-weight:bold}\r\np.msonormal0, li.msonormal0, div.msonormal0\r\n\t{margin-right:0cm;\r\n\tmargin-left:0cm;\r\n\tfont-size:11.0pt;\r\n\tfont-family:\"Calibri\",sans-serif}\r\nspan.EmailStyle19\r\n\t{font-family:\"Calibri\",sans-serif;\r\n\tcolor:windowtext}\r\n.MsoChpDefault\r\n\t{font-size:10.0pt}\r\n@page WordSection1\r\n\t{margin:72.0pt 72.0pt 72.0pt 72.0pt}\r\ndiv.WordSection1\r\n\t{}\r\n-->\r\n</style>\r\n</head>\r\n<body lang=\"EN-GB\" link=\"#0563C1\" vlink=\"#954F72\">\r\n<div class=\"WordSection1\">\r\n<div class=\"MsoNormal\" align=\"center\" style=\"text-align:center\"><span style=\"color:#005776\">\r\n<hr size=\"2\" width=\"100%\" align=\"center\">\r\n</span></div>\r\n<h2><span style=\"color:#005776\">REMY - Nets Meeting Services</span></h2>\r\n<p class=\"MsoNormal\"><span style=\"color:#005776\">This is a link used by the organizer of the meeting to order additional services<br>\r\n<br>\r\n<a href=\"https://apps.powerapps.com/play/11895e09-d2f9-459b-ac3f-aa3b222d9ab1?tenantId=79dc228f-c8f2-4016-8bf0-b990b6c72e98?id=ngjoh@nets.eu:1597947922216\" target=\"_blank\">Open REMY</a></span></p>\r\n<div>\r\n<p class=\"MsoNormal\"><span style=\"color:white\">#REMYIDSTART#ngjoh-nets.eu:1597947922216#REMYIDEND#</span></p>\r\n</div>\r\n<div class=\"MsoNormal\" align=\"center\" style=\"text-align:center\"><span style=\"color:#005776\">\r\n<hr size=\"2\" width=\"100%\" align=\"center\">\r\n</span></div>\r\n</div>\r\n</body>\r\n</html>\r\n"
+        },
+        "start": {
+            "dateTime": "2020-08-24T12:00:00.0000000",
+            "timeZone": "UTC"
+        },
+        "end": {
+            "dateTime": "2020-08-24T12:30:00.0000000",
+            "timeZone": "UTC"
+        },
+        "location": {
+            "displayName": "DK-KB601-21E1 Video (6)",
+            "locationType": "default",
+            "uniqueId": "DK-KB601-21E1 Video (6)",
+            "uniqueIdType": "private"
+        },
+        "locations": [
+            {
+                "displayName": "DK-KB601-21E1 Video (6)",
+                "locationUri": "room-dk-kb601-21e1@nets.eu",
+                "locationType": "conferenceRoom",
+                "uniqueId": "room-dk-kb601-21e1@nets.eu",
+                "uniqueIdType": "directory",
+                "address": {
+                    "street": "",
+                    "city": "",
+                    "state": "",
+                    "countryOrRegion": "",
+                    "postalCode": ""
+                },
+                "coordinates": {}
+            }
+        ],
+        "attendees": [
+            {
+                "type": "required",
+                "status": {
+                    "response": "none",
+                    "time": "0001-01-01T00:00:00Z"
+                },
+                "emailAddress": {
+                    "name": "Niels Gregers Johansen",
+                    "address": "ngjoh@nets.eu"
+                }
+            },
+            {
+                "type": "optional",
+                "status": {
+                    "response": "none",
+                    "time": "0001-01-01T00:00:00Z"
+                },
+                "emailAddress": {
+                    "name": "DK-KB601-21E1 Video (6)",
+                    "address": "room-dk-kb601-21e1@nets.eu"
+                }
+            }
+        ],
+        "organizer": {
+            "emailAddress": {
+                "name": "Niels Gregers Johansen",
+                "address": "ngjoh@nets.eu"
+            }
+        }
+    },
+    "schema": {
+        "type": "object",
+        "properties": {
+            "allowNewTimeProposals": {
+                "type": "boolean"
+            },
+            "attendees": {
+                "type": "array",
+                "items": {
+                    "type": "object",
+                    "properties": {
+                        "emailAddress": {
+                            "type": "object",
+                            "properties": {
+                                "address": {
+                                    "type": "string"
+                                },
+                                "name": {
+                                    "type": "string"
+                                }
+                            }
+                        },
+                        "status": {
+                            "type": "object",
+                            "properties": {
+                                "response": {
+                                    "type": "string"
+                                },
+                                "time": {
+                                    "type": "string"
+                                }
+                            }
+                        },
+                        "type": {
+                            "type": "string"
+                        }
+                    },
+                    "required": [
+                        "type",
+                        "status",
+                        "emailAddress"
+                    ]
+                }
+            },
+            "body": {
+                "type": "object",
+                "properties": {
+                    "content": {
+                        "type": "string"
+                    },
+                    "contentType": {
+                        "type": "string"
+                    }
+                }
+            },
+            "bodyPreview": {
+                "type": "string"
+            },
+            "categories": {
+                "type": "array"
+            },
+            "changeKey": {
+                "type": "string"
+            },
+            "createdDateTime": {
+                "type": "string"
+            },
+            "end": {
+                "type": "object",
+                "properties": {
+                    "dateTime": {
+                        "type": "string"
+                    },
+                    "timeZone": {
+                        "type": "string"
+                    }
+                }
+            },
+            "hasAttachments": {
+                "type": "boolean"
+            },
+            "id": {
+                "type": "string"
+            },
+            "importance": {
+                "type": "string"
+            },
+            "isAllDay": {
+                "type": "boolean"
+            },
+            "isCancelled": {
+                "type": "boolean"
+            },
+            "isOnlineMeeting": {
+                "type": "boolean"
+            },
+            "isOrganizer": {
+                "type": "boolean"
+            },
+            "isReminderOn": {
+                "type": "boolean"
+            },
+            "lastModifiedDateTime": {
+                "type": "string"
+            },
+            "location": {
+                "type": "object",
+                "properties": {
+                    "displayName": {
+                        "type": "string"
+                    },
+                    "locationType": {
+                        "type": "string"
+                    },
+                    "uniqueId": {
+                        "type": "string"
+                    },
+                    "uniqueIdType": {
+                        "type": "string"
+                    }
+                }
+            },
+            "locations": {
+                "type": "array",
+                "items": {
+                    "type": "object",
+                    "properties": {
+                        "address": {
+                            "type": "object",
+                            "properties": {
+                                "city": {
+                                    "type": "string"
+                                },
+                                "countryOrRegion": {
+                                    "type": "string"
+                                },
+                                "postalCode": {
+                                    "type": "string"
+                                },
+                                "state": {
+                                    "type": "string"
+                                },
+                                "street": {
+                                    "type": "string"
+                                }
+                            }
+                        },
+                        "coordinates": {
+                            "type": "object"
+                        },
+                        "displayName": {
+                            "type": "string"
+                        },
+                        "locationType": {
+                            "type": "string"
+                        },
+                        "locationUri": {
+                            "type": "string"
+                        },
+                        "uniqueId": {
+                            "type": "string"
+                        },
+                        "uniqueIdType": {
+                            "type": "string"
+                        }
+                    },
+                    "required": [
+                        "displayName",
+                        "locationUri",
+                        "locationType",
+                        "uniqueId",
+                        "uniqueIdType",
+                        "address",
+                        "coordinates"
+                    ]
+                }
+            },
+            "organizer": {
+                "type": "object",
+                "properties": {
+                    "emailAddress": {
+                        "type": "object",
+                        "properties": {
+                            "address": {
+                                "type": "string"
+                            },
+                            "name": {
+                                "type": "string"
+                            }
+                        }
+                    }
+                }
+            },
+            "originalEndTimeZone": {
+                "type": "string"
+            },
+            "originalStartTimeZone": {
+                "type": "string"
+            },
+            "recurrence": {},
+            "reminderMinutesBeforeStart": {
+                "type": "integer"
+            },
+            "responseRequested": {
+                "type": "boolean"
+            },
+            "responseStatus": {
+                "type": "object",
+                "properties": {
+                    "response": {
+                        "type": "string"
+                    },
+                    "time": {
+                        "type": "string"
+                    }
+                }
+            },
+            "sensitivity": {
+                "type": "string"
+            },
+            "seriesMasterId": {},
+            "showAs": {
+                "type": "string"
+            },
+            "start": {
+                "type": "object",
+                "properties": {
+                    "dateTime": {
+                        "type": "string"
+                    },
+                    "timeZone": {
+                        "type": "string"
+                    }
+                }
+            },
+            "subject": {
+                "type": "string"
+            },
+            "type": {
+                "type": "string"
+            },
+            "webLink": {
+                "type": "string"
+            },
+            "@odata.context": {
+                "type": "string"
+            },
+            "@odata.etag": {
+                "type": "string"
+            }
+        }
+    }
+}

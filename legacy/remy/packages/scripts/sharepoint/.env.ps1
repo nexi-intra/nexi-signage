@@ -1,0 +1,10 @@
+#$env:AADUSER="ngjoh@netse5.onmicrosoft.com"
+#$env:AADPASSWORD="Emln3060!"
+#$env:AADDOMAIN="netse5.onmicrosoft.com"
+
+#$env:AADUSER="niels@niegrejoh.onmicrosoft.com"
+#$env:AADPASSWORD="Emln3060h!"
+#$env:AADDOMAIN="niegrejoh.onmicrosoft.com"
+$env:AADUSER="admin-system@nets.eu"
+$env:AADPASSWORD="NotYammer7!"
+$env:AADDOMAIN="nets.eu"

@@ -1,0 +1,107 @@
+{
+  "@odata.context": "https://graph.microsoft.com/v1.0/$metadata#users('06fbbd0f-4309-466d-9830-093d26e10db3')/events/$entity",
+  "@odata.etag": "W/\"YtzpwFlz70yZX0SM/9gOFgAABDFqFg==\"",
+  "id": "AAMkAGJmMTA4OTU0LTMwZWYtNGM5NS04OGI0LWI4NDQzY2M5OGVjMQBGAAAAAACrAEiQYybOTLuMom19E37ZBwBi3OnAWXPvTJlfRIz-2A4WAAAAAAENAABi3OnAWXPvTJlfRIz-2A4WAAAEMhj_AAA=",
+  "createdDateTime": "2020-08-18T11:41:30.6541654Z",
+  "lastModifiedDateTime": "2020-08-18T11:41:30.7131304Z",
+  "changeKey": "YtzpwFlz70yZX0SM/9gOFgAABDFqFg==",
+  "categories": [],
+  "originalStartTimeZone": "Romance Standard Time",
+  "originalEndTimeZone": "Romance Standard Time",
+  "iCalUId": "040000008200E00074C5B7101A82E00800000000905766456575D6010000000000000000100000002DE105BC84765446BBCDE09CFFC971F2",
+  "reminderMinutesBeforeStart": 15,
+  "isReminderOn": true,
+  "hasAttachments": false,
+  "subject": "Recurring meeting",
+  "bodyPreview": "________________________________\r\nREMY - Nets Meeting Services\r\nThis is a link used by the organizer of the meeting to order additional services\r\n\r\nOpen REMY\r\n________________________________",
+  "importance": "normal",
+  "sensitivity": "normal",
+  "isAllDay": false,
+  "isCancelled": false,
+  "isOrganizer": false,
+  "responseRequested": true,
+  "seriesMasterId": null,
+  "showAs": "tentative",
+  "type": "seriesMaster",
+  "webLink": "https://outlook.office365.com/owa/?itemid=AAMkAGJmMTA4OTU0LTMwZWYtNGM5NS04OGI0LWI4NDQzY2M5OGVjMQBGAAAAAACrAEiQYybOTLuMom19E37ZBwBi3OnAWXPvTJlfRIz%2F2A4WAAAAAAENAABi3OnAWXPvTJlfRIz%2F2A4WAAAEMhj%2BAAA%3D&exvsurl=1&path=/calendar/item",
+  "onlineMeetingUrl": null,
+  "isOnlineMeeting": false,
+  "onlineMeetingProvider": "unknown",
+  "allowNewTimeProposals": true,
+  "onlineMeeting": null,
+  "responseStatus": {
+    "response": "notResponded",
+    "time": "0001-01-01T00:00:00Z"
+  },
+  "body": {
+    "contentType": "html",
+    "content": "<html>\r\n<head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\r\n<meta content=\"text/html; charset=us-ascii\">\r\n<meta name=\"Generator\" content=\"Microsoft Word 15 (filtered medium)\">\r\n<style>\r\n<!--\r\n@font-face\r\n\t{font-family:\"Cambria Math\"}\r\n@font-face\r\n\t{font-family:Calibri}\r\np.MsoNormal, li.MsoNormal, div.MsoNormal\r\n\t{margin:0cm;\r\n\tmargin-bottom:.0001pt;\r\n\tfont-size:11.0pt;\r\n\tfont-family:\"Calibri\",sans-serif}\r\nh2\r\n\t{margin-right:0cm;\r\n\tmargin-left:0cm;\r\n\tfont-size:18.0pt;\r\n\tfont-family:\"Calibri\",sans-serif}\r\na:link, span.MsoHyperlink\r\n\t{color:#0563C1;\r\n\ttext-decoration:underline}\r\na:visited, span.MsoHyperlinkFollowed\r\n\t{color:#954F72;\r\n\ttext-decoration:underline}\r\nspan.Heading2Char\r\n\t{font-family:\"Calibri\",sans-serif;\r\n\tfont-weight:bold}\r\np.msonormal0, li.msonormal0, div.msonormal0\r\n\t{margin-right:0cm;\r\n\tmargin-left:0cm;\r\n\tfont-size:11.0pt;\r\n\tfont-family:\"Calibri\",sans-serif}\r\nspan.EmailStyle19\r\n\t{font-family:\"Calibri\",sans-serif;\r\n\tcolor:windowtext}\r\n.MsoChpDefault\r\n\t{font-size:10.0pt}\r\n@page WordSection1\r\n\t{margin:72.0pt 72.0pt 72.0pt 72.0pt}\r\ndiv.WordSection1\r\n\t{}\r\n-->\r\n</style>\r\n</head>\r\n<body lang=\"EN-GB\" link=\"#0563C1\" vlink=\"#954F72\">\r\n<div class=\"WordSection1\">\r\n<div class=\"MsoNormal\" align=\"center\" style=\"text-align:center\"><span style=\"color:#005776\">\r\n<hr size=\"2\" width=\"100%\" align=\"center\">\r\n</span></div>\r\n<h2><span style=\"color:#005776\">REMY - Nets Meeting Services</span></h2>\r\n<p class=\"MsoNormal\"><span style=\"color:#005776\">This is a link used by the organizer of the meeting to order additional services<br>\r\n<br>\r\n<a href=\"https://apps.powerapps.com/play/11895e09-d2f9-459b-ac3f-aa3b222d9ab1?tenantId=79dc228f-c8f2-4016-8bf0-b990b6c72e98?id=ngjoh@nets.eu:1597750816775\" target=\"_blank\">Open REMY</a></span></p>\r\n<div class=\"MsoNormal\" align=\"center\" style=\"text-align:center\"><span style=\"color:#005776\">\r\n<hr size=\"2\" width=\"100%\" align=\"center\">\r\n</span></div>\r\n</div>\r\n</body>\r\n</html>\r\n"
+  },
+  "start": { "dateTime": "2020-08-20T11:30:00.0000000", "timeZone": "UTC" },
+  "end": { "dateTime": "2020-08-20T12:00:00.0000000", "timeZone": "UTC" },
+  "location": {
+    "displayName": "DK-KB601-21E1 Video (6)",
+    "locationType": "default",
+    "uniqueId": "DK-KB601-21E1 Video (6)",
+    "uniqueIdType": "private"
+  },
+  "locations": [
+    {
+      "displayName": "DK-KB601-21E1 Video (6)",
+      "locationUri": "room-dk-kb601-21e1@nets.eu",
+      "locationType": "conferenceRoom",
+      "uniqueId": "room-dk-kb601-21e1@nets.eu",
+      "uniqueIdType": "directory",
+      "address": {
+        "street": "",
+        "city": "",
+        "state": "",
+        "countryOrRegion": "",
+        "postalCode": ""
+      },
+      "coordinates": {}
+    }
+  ],
+  "recurrence": {
+    "pattern": {
+      "type": "weekly",
+      "interval": 2,
+      "month": 0,
+      "dayOfMonth": 0,
+      "daysOfWeek": ["thursday"],
+      "firstDayOfWeek": "monday",
+      "index": "first"
+    },
+    "range": {
+      "type": "numbered",
+      "startDate": "2020-08-20",
+      "endDate": "0001-01-01",
+      "recurrenceTimeZone": "Romance Standard Time",
+      "numberOfOccurrences": 10
+    }
+  },
+  "attendees": [
+    {
+      "type": "required",
+      "status": { "response": "none", "time": "0001-01-01T00:00:00Z" },
+      "emailAddress": {
+        "name": "Niels Gregers Johansen",
+        "address": "ngjoh@nets.eu"
+      }
+    },
+    {
+      "type": "optional",
+      "status": { "response": "none", "time": "0001-01-01T00:00:00Z" },
+      "emailAddress": {
+        "name": "DK-KB601-21E1 Video (6)",
+        "address": "room-dk-kb601-21e1@nets.eu"
+      }
+    }
+  ],
+  "organizer": {
+    "emailAddress": {
+      "name": "Niels Gregers Johansen",
+      "address": "ngjoh@nets.eu"
+    }
+  }
+}

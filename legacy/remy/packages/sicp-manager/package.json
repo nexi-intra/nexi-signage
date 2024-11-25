@@ -1,0 +1,16 @@
+{
+  "name": "sicp-manager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv":"^8.2.0",
+    "@hapi/hapi":"^19.2.0",
+    "fs-extra":"^9.0.1"
+  },  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "yarn": "yarn"
+  },
+  "author": "",
+  "license": "ISC"
+}

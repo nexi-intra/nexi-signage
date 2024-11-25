@@ -1,0 +1,68 @@
+{
+  "name": "intranets-phonebook-api",
+  "version": "0.0.6",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "yarn": "yarn",
+    "start": "node ./src/server.js"
+ 
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/inert": "^5.2.1",
+    "@hapi/joi": "^15.1.0",
+    "@hapi/vision": "^5.5.2",
+    "@hapi/boom": "^7.4.3",
+    "@hapi/hoek": "^8.2.0",
+    "@hapi/hapi": "^18.3.1",
+    "@hapi/nes" :"^11.2.1",
+   "hapi-ending":"^1.0.1",
+    "@surveylegend/hapi-docs": "^0.3.21",
+    "applicationinsights": "^1.0.8",
+    "axios":"^0.19.0",
+    "atob": "^2.1.2",
+    "body-parser": "~1.18.2",
+    
+    "btoa": "^1.2.1",
+    "cookie-parser": "~1.4.3",
+    "csv-parse": "^3.0.0",
+"qs":"^6.9.4",
+    "exceljs": "^1.7.0",
+    "format-json": "^1.0.3",
+    "fs-extra": "^7.0.0",
+    "handlebars": "^4.0.12",
+   
+    "hapi-auth-bearer-token": "^6.1.1",
+    "hapi-auth-jwt2": "^8.2.0",
+    "hapi-ralphi": "^3.1.2",
+    "hapi-swagger": "^10.0.2",
+    
+    "jsonwebtoken": "^8.4.0",
+    "liquidjs": "^6.1.0",
+    "lodash": "^4.17.11",
+    "marked": "^0.6.2",
+    "moment": "^2.22.2",
+    
+    "node-cache": "^4.2.0",
+    "postmark": "^2.2.4",
+    "ralphi": "^3.1.2",
+    "ralphi-client": "^3.1.2",
+    "rfc6902": "^3.0.1",
+    "socket.io": "^2.2.0",
+    "tedious": "^3.0.1",
+    "tedious-connection-pool": "^1.0.5",
+    "uuid": "^3.3.2",
+    "xlsx": "^0.14.1",
+    "xml2js": "^0.4.19",
+    "request":"^2.88.0",
+    "log4js":"^6.3.0",
+    "dotenv":"^8.2.0"
+  },
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
